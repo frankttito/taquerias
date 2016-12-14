@@ -8,12 +8,14 @@ body {
 /* websiteLogo */
 
 .logoClass {
+  background: black;
   width: 100%;
-  height: 220px;
-  margin: 1 1 1 1;
-  float: ;
+  height: 250px;
+  margin: 1px 1px 1px 1px;
+  float: left;
+  padding:;
   text-align: center;
-  background-image: url('http://www.sftravel.com/sites/sftraveldev.prod.acquia-sites.com/files/field/image/site-photo.jpg');
+  background-image: url('http://foundtheworld.com/wp-content/uploads/2016/08/San-Francisco-6.jpg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border-radius: 25px;
@@ -25,6 +27,7 @@ body {
   padding: 2%;
   color: #B9D7FD;
   font-family: 'Aref Ruqaa', serif;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 
 
