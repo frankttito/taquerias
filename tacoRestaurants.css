@@ -33,7 +33,7 @@ body {
 
 /* Taco button */
 
-.taqueriaInformationClass {
+.tacoRestaurantsClass {
   /*background: red;
   border-style: solid;
     border-color: #ff0000 #0000ff;*/
@@ -47,7 +47,7 @@ body {
   font-size: 55%;
 }
 
-.taqueriaInformationClass img {
+.tacoRestaurantsClass img {
   width: 60%;
   display: block;
   margin-left: auto;
@@ -57,7 +57,7 @@ body {
 
 /* Favorite button */
 
-.taqueriaFavoriteClass {
+.tacoTrucksClass {
   /*background: green;
   border-style: solid;
     border-color: #ff0000 #0000ff;*/
@@ -71,7 +71,7 @@ body {
   font-size: 55%;
 }
 
-.taqueriaFavoriteClass img {
+.tacosTrucksClass img {
   width: 57%;
   display: block;
   margin-left: auto;
@@ -81,7 +81,7 @@ body {
 
 /* Map button */
 
-.taqueriaMapClass {
+.tacoMapClass {
   /*background: green;
     border-style: solid;
     border-color: #ff0000 #0000ff;*/
@@ -95,7 +95,7 @@ body {
   font-size: 55%;
 }
 
-.taqueriaMapClass img {
+.tacoMapClass img {
   width: 60%;
   display: block;
   margin-left: auto;
