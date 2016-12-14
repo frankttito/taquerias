@@ -1,1 +1,1 @@
-https://frankttito.github.io/taquerias/
+https://frankttito.github.io/taquerias/taqueriaInformation.html
