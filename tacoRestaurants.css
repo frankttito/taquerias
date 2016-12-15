@@ -38,9 +38,9 @@ body {
   /*background: red;
   border-style: solid;
     border-color: #ff0000 #0000ff;*/
-  width: 30%;
+  width: 20%;
   height: auto;
-  margin: 0 0 0 5%;
+  margin: 0 0 0 0;
   display: inline-block;
   float: left;
   color: #3FA3D2;
@@ -62,7 +62,7 @@ body {
   /*background: green;
   border-style: solid;
     border-color: #ff0000 #0000ff;*/
-  width: 30%;
+  width: 20%;
   height: auto;
   margin: 0 0 0 0;
   display: inline-block;
@@ -86,7 +86,7 @@ body {
   /*background: green;
     border-style: solid;
     border-color: #ff0000 #0000ff;*/
-  width: 30%;
+  width: 20%;
   height: auto;
   margin: 0 0 0 0;
   display: inline-block;
@@ -103,6 +103,52 @@ body {
   margin-right: auto
 }
 
+/* Taquerias Rating */
+
+.taqueriasRatingClass {
+  /*background: green;
+  border-style: solid;
+    border-color: #ff0000 #0000ff;*/
+  width: 20%;
+  height: auto;
+  margin: 0 0 0 0;
+  display: inline-block;
+  float: left;
+  color: #3FA3D2;
+  text-align: center;
+  font-size: 55%;
+}
+
+.taqueriasRating img {
+  width: ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+/* Search Button */
+
+.searchClass {
+  /*background: green;
+  border-style: solid;
+    border-color: #ff0000 #0000ff;*/
+  width: 20%;
+  height: auto;
+  margin: 0 0 0 0;
+  display: inline-block;
+  float: left;
+  color: #3FA3D2;
+  text-align: center;
+  font-size: 55%;
+}
+
+.search img {
+  width: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
 
 /* General content */
 
