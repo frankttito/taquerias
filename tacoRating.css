@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa');
+body {
+  background: #113042;
+  padding: ;
+}
+
+
+/* websiteLogo */
+
+.logoClass {
+  background: black;
+  width: 100%;
+  height: 250px;
+  margin: 1px 1px 1px 1px;
+  float: left;
+  padding: ;
+  text-align: center;
+  background-image: url('http://foundtheworld.com/wp-content/uploads/2016/08/San-Francisco-6.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border-radius: 25px;
+}
+
+.logoClass h1 {
+  text-decoration: none;
+  font-size: 55px;
+  padding: 2%;
+  color: #B9D7FD;
+  font-family: 'Aref Ruqaa', serif;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+/* Taco button */
+
+.tacoRestaurantsClass {
+  /*background: red;
+	  border-style: solid;
+	    border-color: #ff0000 #0000ff;*/
+  width: 20%;
+  height: auto;
+  margin: 0 0 0 0;
+  display: inline-block;
+  float: left;
+  color: #3FA3D2;
+  text-align: center;
+  font-size: 55%;
+}
+
+.tacoRestaurantsClass img {
+  width: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+/* Favorite button */
+
+.tacoTrucksClass {
+  /*background: green;
+	  border-style: solid;
+	    border-color: #ff0000 #0000ff;*/
+  width: 20%;
+  height: auto;
+  margin: 0 0 0 0;
+  display: inline-block;
+  float: left;
+  color: #3FA3D2;
+  text-align: center;
+  font-size: 55%;
+}
+
+.tacoTrucksClass img {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+/* Map button */
+
+.tacoMapClass {
+  /*background: green;
+	    border-style: solid;
+	    border-color: #ff0000 #0000ff;*/
+  width: 20%;
+  height: auto;
+  margin: 0 0 0 0;
+  display: inline-block;
+  float: left;
+  color: #3FA3D2;
+  text-align: center;
+  font-size: 55%;
+}
+
+.tacoMapClass img {
+  width: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+/* Taquerias Rating */
+
+.taqueriasRatingClass {
+  /*background: green;
+	  border-style: solid;
+	    border-color: #ff0000 #0000ff;*/
+  width: 20%;
+  height: auto;
+  margin: 0 0 0 0;
+  display: inline-block;
+  float: left;
+  color: #3FA3D2;
+  text-align: center;
+  font-size: 55%;
+}
+
+.taqueriasRating img {
+  width: ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+/* Search Button */
+
+.searchClass {
+  /*background: green;
+	  border-style: solid;
+	    border-color: #ff0000 #0000ff;*/
+  width: 20%;
+  height: auto;
+  margin: 0 0 0 0;
+  display: inline-block;
+  float: left;
+  color: #3FA3D2;
+  text-align: center;
+  font-size: 55%;
+}
+
+.search img {
+  width: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+/* General content */
+
+.contentClass {
+  /*background: brown;
+	  border-style: solid;
+	  border-color: green;*/
+  text-align: left;
+  width: 90%;
+  height: auto;
+  margin: 0 0 0 5%;
+  position: static;
+  float: left;
+  text-align: left;
+  text-decoration: none;
+}
+
+.fav {
+  display: ;
+  list-style: none;
+  width: ;
+  text-align: ;
+  color: white;
+}
+
+.contentClass img {
+  margin: 2%;
+  width: 75%;
+  height: auto;
+}
+
+
+/* Footer */
+
+.footer {
+  float: left;
+  width: 90%;
+  height: 50px;
+  position: ;
+  margin: 0 5% 0 5%;
+  /*background-color: yellow;*/
+  text-align: left;
+  color: white;
+}
