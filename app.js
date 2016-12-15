@@ -1,10 +1,10 @@
-$("#slideshow > div:gt(0)").hide();
+$(".contentClass > div:gt(0)").hide();
 
 setInterval(function() { 
-  $('#slideshow > div:first')
+  $('.contentClass > div:first')
     .fadeOut(1000)
     .next()
     .fadeIn(1000)
     .end()
-    .appendTo('#slideshow');
+    .appendTo('.contentClass');
 },  2000);
