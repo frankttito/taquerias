@@ -152,33 +152,24 @@ body {
 
 
 /* General content */
-
+/* Slideshow */
 .contentClass {
   /*background: brown;
-	  border-style: solid;
-	  border-color: green;*/
-  text-align: left;
+border-style: solid;
+border-color: green;*/
   width: 100%;
   height: auto;
   margin: 0 0 0 5%;
   position: static;
   float: left;
-  text-align: left;
   text-decoration: none;
 }
-
-.contentClass img {
-  width: 90%;
-}
-
-
-/* Slideshow */
-
-.mensaje {
-  text-align: center;
-  font-family: 'Aref Ruqaa', serif;
+.mensaje{
   color: white;
+  font-family: 'Aref Ruqaa', serif;
+  text-align: center;
 }
+.mySlides {display:none;}
 
 
 /* Footer */
