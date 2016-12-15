@@ -158,7 +158,7 @@ body {
 	  border-style: solid;
 	  border-color: green;*/
   text-align: left;
-  width: 90%;
+  width: 100%;
   height: auto;
   margin: 0 0 0 5%;
   position: static;
@@ -167,33 +167,18 @@ body {
   text-decoration: none;
 }
 
+.contentClass img {
+  width: 90%;
+}
+
+
 /* Slideshow */
-#slideshow { 
-    margin: ;
-    float: left;
-    position: relative; 
-    width: 100%; 
-    height: auto; 
-    
-    
-}
+
 .mensaje {
-    font-family: 'Aref Ruqaa', serif;
-    color: white;
-
+  text-align: center;
+  font-family: 'Aref Ruqaa', serif;
+  color: white;
 }
-img{
-  width:90%;
-  height:auto;
-}
-#slideshow > div { 
-    position: absolute; 
-    top: 10px; 
-    left: 10px; 
-    right: 10px; 
-    bottom: 10px; 
-}
-
 
 
 /* Footer */
