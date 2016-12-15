@@ -1,2 +1,2 @@
-<a href="https://frankttito.github.io/taquerias/tacoRestaurants.html
-">https://frankttito.github.io/taquerias/tacoRestaurants.html</a>
+<a href="https://frankttito.github.io/taquerias
+">https://frankttito.github.io/taquerias</a>
