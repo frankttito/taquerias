@@ -169,14 +169,19 @@ body {
 
 /* Slideshow */
 #slideshow { 
-    margin: ; 
+    margin: ;
+    float: left;
     position: relative; 
     width: 100%; 
     height: auto; 
     
     
 }
+.mensaje {
+    font-family: 'Aref Ruqaa', serif;
+    color: white;
 
+}
 img{
   width:90%;
   height:auto;
@@ -189,11 +194,6 @@ img{
     bottom: 10px; 
 }
 
-.contentClass img {
-  margin: 2%;
-  width: 75%;
-  height: auto;
-}
 
 
 /* Footer */
