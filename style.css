@@ -150,6 +150,22 @@ body {
   margin-right: auto
 }
 
+.searchClass h1{
+	font-size: 250%;
+}
+
+.tacoRestaurantsClass h1{
+	font-size: 250%;
+}
+.tacoTrucksClass h1{
+	font-size: 250%;
+}
+.tacoMapClass h1{
+	font-size: 250%;
+}
+.taqueriasRatingClass h1{
+	font-size: 250%;
+}
 
 /* General content */
 /* Slideshow */
