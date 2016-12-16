@@ -15,7 +15,7 @@ body {
   float: left;
   padding: ;
   text-align: center;
-  background-image: url(<a href="index.html">'http://foundtheworld.com/wp-content/uploads/2016/08/San-Francisco-6.jpg'</a>);
+  background-image: url('http://foundtheworld.com/wp-content/uploads/2016/08/San-Francisco-6.jpg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border-radius: 25px;
