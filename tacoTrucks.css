@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa');
+@import url('https://fonts.googleapis.com/css?family=Dekko');
 
 body {
   background: #113042;
@@ -157,27 +158,39 @@ body {
   border-style: solid;
   border-color: green;*/
   text-align: left;
-  width: 90%;
+  width: 100%;
   height: auto;
-  margin: 0 0 0 5%;
+  margin: 0 0 0 0;
   position: static;
   float: left;
-  text-align: left;
+  text-align: ;
   text-decoration: none;
 }
 
 .truck {
-   display: ;
+  list-style-type: none;
   list-style: none;
   width: ;
   text-align: ;
   color: white;
+  float: ;
 }
 
 .contentClass img {
-  margin: 2%;
-  width: 75%;
+  margin: ;
+  width: 80%;
+  height: 250px;
+  margin: 8% 0 0 0;
+  border: solid #B9D7FD;
+}
+li{
+  text-align: ;
+  float:left;
+  width: 50%;
   height: auto;
+  font-family: 'Dekko', cursive;
+  font-size: 18px;
+  
 }
 
 
