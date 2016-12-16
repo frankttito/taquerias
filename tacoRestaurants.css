@@ -182,17 +182,15 @@ body {
   margin: 8% 0 0 0;
   border: solid #B9D7FD;
 }
-
 li{
-  text-align: center;
+  text-align: ;
   float:left;
-  width: 49%;
+  width: 50%;
   height: auto;
   font-family: 'Dekko', cursive;
-  font-size: 110%;
+  font-size: 20px;
   
 }
-
 /* Footer */
 
 .footer {
